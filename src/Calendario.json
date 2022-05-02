@@ -12,7 +12,16 @@
                 },
                 {
                     "nome": "FerrAria"
-                }
+                },
+                {
+                    "nome": "FBK"
+                },
+                {
+                    "nome": "Mercati"
+                },
+                {
+                    "nome": "Botteghe"
+                }                
             ],
             "periodo": {
                 "dal": "2022-04-20",
